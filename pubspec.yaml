@@ -30,6 +30,11 @@ environment:
 dependencies:
   firebase_core: ^2.8.0
   firebase_database: ^10.0.16
+  firebase_messaging: ^14.3.0
+  firebase_auth: ^4.1.1
+  cloud_firestore: ^4.0.4
+  get: ^4.6.5
+  overlay_support: ^2.0.1
   flutter:
     sdk: flutter
 
